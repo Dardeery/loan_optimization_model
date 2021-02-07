@@ -22,4 +22,21 @@ public:          https://www.kaggle.com/c/loan-default-prediction
 
 ## project steps
 
+#### data preparation
+* access to the database 
+* data cleansing
+* hash the data (personal data)
+* create the base table
 
+#### theoritical analysis
+
+* skim the theories, literture on loan default. 
+* get a model to apply
+
+### Emperical Analysis
+
+* apply the model on the available data (internal and public data). 
+* review the model against other repos. 
+* publish the results. 
+
+   
