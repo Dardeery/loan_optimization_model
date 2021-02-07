@@ -1,5 +1,4 @@
-# loan-optimization-my-trial-
-
+# loan optimization model
 
 this project aims to replica loan optimization ML model applied by Stefan Beier. 
 
