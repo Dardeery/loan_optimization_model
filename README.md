@@ -1,6 +1,6 @@
 # loan optimization model
 
-this project aims to replica loan optimization ML model applied by Stefan Beier. 
+this project aims to replica loan optimization ML model. 
 
 | user           |  customer           | active           |   ...features     |   loan        | repayment |
 | :---           |:---:                |  ---:            |         ---:  |       ---:    | ---:|
